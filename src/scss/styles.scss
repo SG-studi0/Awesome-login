@@ -1,5 +1,42 @@
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
 
+$primary-color: lightblue;
+$btn-color:pink;
+$bd-violet:black;
+$dark-rgb: 6 11 16;
+$label:white;
 
-$btn-
+:root{
+    --colorRgbFacetsNeutralDark900: 6 11 16;
+}
+
+.tw-dark{
+    --colorBgApp: var(--colorRgbFacetsNeutralDark900);
+}
+
+ body {
+   
+    background-color: rgb($dark-rgb);
+}
+
+label{
+    color:$label;
+}
+
+.page-title{
+    padding-top: 2em;
+    margin-top: -1rem;
+    text-align: center;
+    color:white;
+}
+
+
+.login{
+text-align: center;
+}
+
+
+btn-primary{
+    background-color:$btn-color;
+}

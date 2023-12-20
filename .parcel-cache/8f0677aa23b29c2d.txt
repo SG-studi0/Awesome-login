@@ -1,4 +1,4 @@
-6507
+6508
 104C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\esm\_class_private_field_update.js133474894274407262 0
 65C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-tree133474894305916355 1
 66C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lru-cache133474894129131540 1
@@ -10,7 +10,7 @@
 102C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133474894119721235 0
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\semver\functions\neq.js133474894202244014 0
 83C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\nth-check\lib\compile.d.ts133474894192000075 0
-48C:\Users\sha\Documents\GitHub\Awesome-login\dist133474903241032387 1
+48C:\Users\sha\Documents\GitHub\Awesome-login\dist133475741717535633 1
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\regions\KN.js133474894318722466 0
 83C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\src\index.mjs133474894308070529 0
 99C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\msgpackr-extract\bin\download-prebuilds.js133474894135844377 0
@@ -47,7 +47,7 @@
 110C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133474894306754220 0
 78C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\codeframe\lib133474894219271227 1
 75C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\utility-types\dist133474894189309243 1
-56C:\Users\sha\Documents\GitHub\Awesome-login\node_modules133474903177152817 1
+56C:\Users\sha\Documents\GitHub\Awesome-login\node_modules133474925881763344 1
 97C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\features\array-find.js133474894207312913 0
 141C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133474894213599164 0
 63C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\dotenv133474894146699228 1
@@ -61,7 +61,7 @@
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\regions\LS.js133474894320421603 0
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\sass\types\options.d.ts133474903170678956 0
 90C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\htmlnano\lib\modules\minifyJs.cjs133474894185326842 0
-56C:\Users\sha\Documents\GitHub\Awesome-login\package.json133474903177152817 0
+56C:\Users\sha\Documents\GitHub\Awesome-login\package.json133475676922078055 0
 101C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133474894146789157 0
 93C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\cjs\_async_iterator.cjs133474894165155651 0
 112C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133474894231512937 0
@@ -71,11 +71,11 @@
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\rust\browser.js133474894127852310 0
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\weak-lru-cache\rollup.config.js133474894145150186 0
 85C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\domutils\lib\legacy.d.ts.map133474894176686977 0
-74C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@msgpackr-extract133474903177152817 1
+74C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@msgpackr-extract133474925881919594 1
 74C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lmdb\dependencies133474894276114974 1
 111C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133474894179924325 0
 97C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\htmlnano\lib\modules\removeUnusedCss.mjs133474894270958367 0
-61C:\Users\sha\Documents\GitHub\Awesome-login\package-lock.json133474903180405421 0
+61C:\Users\sha\Documents\GitHub\Awesome-login\package-lock.json133475676465661056 0
 79C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\semver\functions\eq.js133474894174586377 0
 81C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\term-size\vendor\windows133474894146519311 1
 85C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\weak-lru-cache\tests\test.js133474894149047761 0
@@ -86,7 +86,7 @@
 65C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\chokidar133474903166062569 1
 72C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\globals\license133474894108837961 0
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\sass\types\compile.d.ts133474903167012077 0
-58C:\Users\sha\Documents\GitHub\Awesome-login\src\index.html133474899806790952 0
+58C:\Users\sha\Documents\GitHub\Awesome-login\src\index.html133475741510351417 0
 87C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\src\_inherits.mjs133474894305996308 0
 68C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\cosmiconfig133474894193796744 1
 76C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@lezer\lr\README.md133474894163546645 0
@@ -102,7 +102,7 @@
 93C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\utility-types\dist\mapped-types.d.ts133474894188315903 0
 124C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\index.js133474894251458947 0
 84C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\workers\lib\threads133474894216094240 1
-64C:\Users\sha\Documents\GitHub\Awesome-login\src\scss\styles.scss133474899420245550 0
+64C:\Users\sha\Documents\GitHub\Awesome-login\src\scss\styles.scss133475736549800807 0
 92C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\node-releases\data\release-schedule133474894142984653 1
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\regions\LI.js133474894319534617 0
 95C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\svgo\plugins\convertEllipseToCircle.js133474894222063894 0
@@ -111,7 +111,7 @@
 78C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\mdn-data\api\index.js133474894119251534 0
 103C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\csso\node_modules\css-tree\cjs\utils\ident.cjs133474894227065868 0
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\_\_to_property_key133474894301966363 1
-58C:\Users\sha\Documents\GitHub\Awesome-login\src\js\main.js133474899158597137 0
+58C:\Users\sha\Documents\GitHub\Awesome-login\src\js\main.js133475728094385186 0
 65C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\entities133474894190478488 1
 97C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-select\lib\pseudo-selectors\index.js133474894185156944 0
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\htmlnano\docs\README.md133474894259307021 0
@@ -135,7 +135,7 @@
 80C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\semver\classes\range.js133474894211855357 0
 103C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133474894149657390 0
 81C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\safe-buffer\package.json133474894123295017 0
-75C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\.package-lock.json133474903182364199 0
+75C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\.package-lock.json133474925886556887 0
 92C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-tree\lib\syntax\node\AnPlusB.js133474894280796646 0
 99C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\_\_class_apply_descriptor_set133474894292168120 1
 103C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133474894123504888 0
@@ -163,7 +163,7 @@
 96C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\features\web-share.js133474894334994087 0
 86C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc\helpers\src\_type_of.mjs133474894307636740 0
 109C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\react-refresh\cjs\react-refresh-babel.development.js133474894128012205 0
-62C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@lmdb133474903177152817 1
+62C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@lmdb133474925881919594 1
 95C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lmdb\node_modules\node-addon-api\tools133474894196344104 1
 71C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\node-addon-api133474894189895973 1
 66C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@mischnic133474897046431484 1
@@ -172,7 +172,7 @@
 84C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\htmlnano\docs\versions.json133474894226564121 0
 102C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\caniuse-lite\data\features\matchesselector.js133474894320689090 0
 90C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\transformer-image\LICENSE133474894105922389 0
-64C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel133474903177152817 1
+64C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel133474925881763344 1
 109C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts.map133474894217762407 0
 70C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\graph133474894193546554 1
 105C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133474894167404270 0
@@ -186,7 +186,7 @@
 77C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\nullthrows\README.md133474894147058992 0
 77C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\stable\stable.min.js133474894141003350 0
 84C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\domutils\lib\traversal.d.ts133474894199208332 0
-61C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc133474903177152817 1
+61C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@swc133474925881763344 1
 91C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\codeframe\src\codeframe.js133474894216533980 0
 91C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-tree\lib\parser\SyntaxError.js133474894303919262 0
 109C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\css-select\node_modules\domutils\lib\manipulation.js133474894171189413 0
@@ -4761,7 +4761,7 @@
 92C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\bootstrap\js\dist\util\focustrap.js133474880379238219 0
 119C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\syntaxes.json133474894202819123 0
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\bootstrap\js\dist\util\index.js133474880394766915 0
-66C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.18dbc454.js133474903240892466 0
+66C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.18dbc454.js133475741709441769 0
 92C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\bootstrap\js\dist\util\index.js.map133474880609651809 0
 92C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\bootstrap\js\dist\util\scrollbar.js133474880438577661 0
 96C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\bootstrap\js\dist\util\scrollbar.js.map133474880611589327 0
@@ -6502,7 +6502,8 @@
 70C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\.bin\svgo.ps1133474896917726122 0
 84C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\.bin\update-browserslist-db133474896917886023 0
 88C:\Users\sha\Documents\GitHub\Awesome-login\node_modules\.bin\update-browserslist-db.ps1133474896917876028 0
-67C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.044e704e.css133474903240572405 0
-71C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.044e704e.css.map133474903241012397 0
-70C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.18dbc454.js.map133474903241012397 0
-59C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.html133474903240922459 0
+67C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.044e704e.css133475741707851230 0
+71C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.044e704e.css.map133475741707935173 0
+70C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.18dbc454.js.map133475741709521746 0
+78C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.18dbc454.js.map.11984.d133475711671352488 0
+59C:\Users\sha\Documents\GitHub\Awesome-login\dist\index.html133475741717515636 0

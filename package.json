@@ -1,60 +1,20 @@
 {
-
-
   "dependencies": {
-
-
     "bootstrap": "^5.3.2"
-
-
   },
-
-
   "name": "awesome-login",
-
-
   "version": "1.0.0",
-
-
   "main": "src/index.js",
-
-
   "devDependencies": {
-
-
-    "@parcel/transformer-sass": "^2.10.3",
-
-
     "parcel": "^2.10.3"
-
-
   },
-
-
   "scripts": {
-
-
     "start": "parcel serve src/index.html --public-url / --dist-dir dist",
-
-
+    "build": "parcel build",
     "test": "echo \"Error: no test specified\" && exit 1"
-
-
   },
-
-
   "keywords": [],
-
-
   "author": "",
-
-
   "license": "ISC",
-
-
   "description": ""
-
-
 }
-
-
