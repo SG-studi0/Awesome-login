@@ -2,10 +2,9 @@
 @import "bootstrap/scss/bootstrap";
 
 $primary-color: lightblue;
-$btn-color:pink;
+$btn-color: #32E6E2;
 $bd-violet:black;
 $dark-rgb: 6 11 16;
-$label:white;
 
 :root{
     --colorRgbFacetsNeutralDark900: 6 11 16;
@@ -15,28 +14,32 @@ $label:white;
     --colorBgApp: var(--colorRgbFacetsNeutralDark900);
 }
 
- body {
-   
-    background-color: rgb($dark-rgb);
+@media  screen and (min-device-width: 350px) and (max-device-width: 1920px){
+    
+    
+    body {
+    
+        background-color: rgb($dark-rgb);
+    }
+    
+    .page-title{
+        padding-top: 2em;
+        margin-top: -1rem;
+        text-align: center;
+        color:white;
+    }
+    
+    
+     
+    .btn-primary-color{
+        background: $btn-color;
+        color: black;
+    
+    }
+    
+   .a{
+    color: white;
+   }
+
 }
 
-label{
-    color:$label;
-}
-
-.page-title{
-    padding-top: 2em;
-    margin-top: -1rem;
-    text-align: center;
-    color:white;
-}
-
-
-.login{
-text-align: center;
-}
-
-
-btn-primary{
-    background-color:$btn-color;
-}

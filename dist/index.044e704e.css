@@ -13210,27 +13210,26 @@ textarea.form-control-lg {
   --colorBgApp: var(--colorRgbFacetsNeutralDark900);
 }
 
-body {
-  background-color: #060b10;
-}
+@media screen and (device-width >= 350px) and (device-width <= 1920px) {
+  body {
+    background-color: #060b10;
+  }
 
-label {
-  color: #fff;
-}
+  .page-title {
+    text-align: center;
+    color: #fff;
+    margin-top: -1rem;
+    padding-top: 2em;
+  }
 
-.page-title {
-  text-align: center;
-  color: #fff;
-  margin-top: -1rem;
-  padding-top: 2em;
-}
+  .btn-primary-color {
+    color: #000;
+    background: #32e6e2;
+  }
 
-.login {
-  text-align: center;
-}
-
-btn-primary {
-  background-color: pink;
+  .a {
+    color: #fff;
+  }
 }
 
 /*# sourceMappingURL=index.044e704e.css.map */
